@@ -1,5 +1,5 @@
 # Selenium Automation Framework(with Java)
-- Author - Pramod Dutta
+- Author - Ramiz Mondal
 
 - Java, Selenium, TestNG
 - Maven, AssertJ, POM
@@ -11,6 +11,7 @@
 - Cloud Grids - Selenoid Docker integration
 - SonarLint, Java > 8
 - Run Local and on Selenoid Integration
+- Enviornment- Crescentek
 
 
 <img width="1024" alt="Screenshot 2023-10-31 at 12 27 14 PM" src="https://github.com/PramodDutta/AdvanceSeleniumFrameworkTTA/assets/1409610/02b0ef3b-1165-46cf-8c9d-89e41b17032f">
